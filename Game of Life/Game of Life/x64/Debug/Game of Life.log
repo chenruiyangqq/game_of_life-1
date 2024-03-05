@@ -1,7 +1,2 @@
 ﻿  main.cpp
-D:\GitHub\game_of_life\Game of Life\Game of Life\main.cpp(157,22): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
-D:\GitHub\game_of_life\Game of Life\Game of Life\main.cpp(161,22): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
-D:\GitHub\game_of_life\Game of Life\Game of Life\main.cpp(165,22): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
-D:\GitHub\game_of_life\Game of Life\Game of Life\main.cpp(172,22): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
-D:\GitHub\game_of_life\Game of Life\Game of Life\main.cpp(42,2): warning C4102: “A”: 未引用的标签
   Game of Life.vcxproj -> D:\GitHub\game_of_life\Game of Life\x64\Debug\Game of Life.exe
